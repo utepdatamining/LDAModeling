@@ -15,6 +15,13 @@ Auxiliary functions to open some files from the data
 *PrintRecommendations.py
 Prints recommendations given in a json file
 
+*MonAmiGabiCapsTrainingLDAtopicModel.mm
+*MonAmiGabiCapsTrainingLDAtopicModel.mm.state
+Contains the lda model created with the Captions only method
+
+*MonAmiGabiTrainingLDAtopicModel.mm
+*MonAmiGabiTrainingLDAtopicModel.mm.state
+Contains the lda model created with removing stopwords method
 
 data folder contains all the data generated and files used to create and use the LDA model
 
