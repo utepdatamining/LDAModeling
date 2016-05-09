@@ -43,4 +43,4 @@ Captions from MonAmi Gabi designated for training(60%) testing(40%)
 Captions from MonAmi Gabi designated for training(60%) testing(40%)
 
 *MonAmiGabiTraining.mm
-Model using MonAmiGabi
+Corpus using MonAmiGabi
